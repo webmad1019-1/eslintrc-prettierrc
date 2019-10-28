@@ -1,0 +1,12 @@
+{
+  "extends": ["airbnb"],
+  "env": {
+    "jasmine": true
+  },
+  "rules": {
+    "space-before-function-paren": "off",
+    "func-names": "off",
+    "prefer-arrow-callback": "off",
+    "quotes": "off"
+  }
+}
